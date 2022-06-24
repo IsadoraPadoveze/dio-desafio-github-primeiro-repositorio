@@ -1,0 +1,9 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+Link para sintaxe do GitHub: https://www.markdownguide.org/basic-syntax/
+
+Para clonar o repositório: comando git clone
+Git status
+Git add. - para adicionar os arquivos no controle de versão local
+Git commit -m "Inclusão das anotações do curso de git/GitHub" -  criou um commit
+Git push origin main - enviar para a nuvem
